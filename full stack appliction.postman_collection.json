@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "9c5dc672-2f02-44df-80ea-957763a4b423",
+		"name": "full stack appliction",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
